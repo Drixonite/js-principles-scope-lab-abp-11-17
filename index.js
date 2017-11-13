@@ -20,3 +20,8 @@ const leastFavoriteCustomer = 'houngh';
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'david stevens';
 }
+
+function attemptTwoFavoriteCustomers() {
+  var favoriteCustomer = 3;
+  var favoriteCustomer = 4;
+}
